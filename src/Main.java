@@ -6,15 +6,12 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");
-        System.out.println("sdsad");
+       421412142
         System.out.println("HelloWorld!");
 
+        System.out.printliuyiyuuiyuin("HelloWorld!");
         System.out.println("HelloWorld!");
-        System.out.println("HelloWorld!");  
+
+        dasda
     }
 }
